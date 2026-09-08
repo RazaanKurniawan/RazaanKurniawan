@@ -1,34 +1,34 @@
-# Halo, gw Razaan! 👋
-
-Undergraduate Information Technology Student yang tertarik dengan web development, Linux environment, dan networking. Suka ngulik hal baru mulai dari frontend architecture sampai eksplorasi sistem operasi.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-- **Frontend:** Vue.js, Angular, Tailwind CSS, HTML5, CSS3, JavaScript
-- **Backend:** PHP
-- **Database:** PostgreSQL, MySQL
-
-**Environment & Tools:**
-- **OS & Kernel:** Arch Linux, KDE Plasma
-- **Networking & Server:** MikroTik, Ubuntu VPS, Pterodactyl
-- **Version Control:** Git, GitHub
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RazaanKurniawan&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Razaan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazaanKurniawan&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <h1 align="center">Hi, I'm Razaan Kurniawan 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;IT+Developer;Arch+Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    S1 Information Technology Student at <b>Universitas Bina Sarana Informatika</b><br>
+    Currently crafting scalable web applications at <b>PT Pelita Teknologi Global</b>
+  </p>
+
+  <p align="center">
+    <a href="https://razaankurniawan.dev"><img src="https://img.shields.io/badge/Portfolio-razaankurniawan.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://linkedin.com/in/razaan-kurniawan-b98584316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:razaan.kp2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-### 📬 Connect with Me
+### 💻 About Me
 
-- **GitHub:** [RazaanKurniawan](https://github.com/RazaanKurniawan)
-- **LinkedIn:** [Tambahkan URL LinkedIn kamu]
-- **Email:** [Tambahkan Email kamu]
+```javascript
+const razaan = {
+  pronouns: "he/him",
+  code: ["TypeScript", "JavaScript", "PHP", "Dart"],
+  frameworks: ["Vue 3", "React", "Angular", "Laravel", "Tailwind CSS"],
+  tools: ["Vite", "Pinia", "GSAP", "Git", "VS Code"],
+  os: "Arch Linux",
+  location: "Bogor / Depok / Jakarta, Indonesia",
+  currentRole: "IT Developer (Frontend) @ PT Pelita Teknologi Global",
+  challenge: "Building clean UI/UX and optimizing enterprise frontend systems"
+};
