@@ -1,36 +1,36 @@
-# 🎮 Summoner Profile: Razaan Kurniawan
-> **Class:** Frontend Developer · **Rank:** Professional · Gold I  
-> *"Building intuitive & high-performance web applications with pixel-perfect precision."*
+<div align="center">
+  <h1>Hi there, I'm Razaan Kurniawan 👋</h1>
 
-[🌐 Live Portfolio](https://razaankurniawan.dev) · [💼 LinkedIn](https://www.linkedin.com/in/razaan-kurniawan-b98584316) · [📫 Guild Mail](mailto:razaan.kp2005@gmail.com)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Frontend+Developer;IT+Developer;Arch+Linux+Enthusiast" alt="Typing SVG" />
+  </a>
 
----
+  <p>
+    S1 Information Technology Student at <b>Universitas Bina Sarana Informatika</b><br>
+    Currently building scalable web applications at <b>PT Pelita Teknologi Global</b>
+  </p>
 
-### ⚔️ Player Attributes
-- **Agility (+90):** Rapid UI rendering with Vue 3 & React.js
-- **Intelligence (+88):** Modern JavaScript / TypeScript mastery
-- **Defense (+85):** Clean code architecture & RESTful API integration
-- **Battle Station:** Arch Linux & VS Code
-
----
-
-### 🎒 Item Build (Tech Arsenal)
-- **Primary Weapons:** `Vue.js 3` `React.js` `TypeScript` `JavaScript`
-- **Utility Items:** `Tailwind CSS` `GSAP` `Vite` `Pinia`
-- **Support Spells:** `Laravel` `PHP` `MySQL` `Firebase` `REST API`
-- **Mount & Engine:** `Git` `GitHub` `Linux (Arch)`
+  <p>
+    <a href="https://razaankurniawan.dev"><img src="https://img.shields.io/badge/Portfolio-razaankurniawan.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/razaan-kurniawan-b98584316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:razaan.kp2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-### 📜 Match History (Experience Quests)
-- 🏢 **PT Pelita Teknologi Global** — *IT Developer (Frontend)* `[Active Quest]`  
-  *Crafting enterprise applications: BCA LMS & Bali Money Changer.*
-- 📦 **Teknindo Global Jaya** — *Warehouse Systems Developer* `[Quest Cleared]`  
-  *Built custom inventory tracking system (+15% operational boost).*
-- 🎓 **Universitas Bina Sarana Informatika** — *B.Sc. in Information Technology* `[In Progress]`
-- 📜 **National RPL Specialist Certification** `[Legendary Badge Unlocked]`
+### 💻 About Me
 
----
-
-### 📊 Battle Stats
-[![Razaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazaanKurniawan&show_icons=true&theme=radical&hide_border=true)](https://github.com/RazaanKurniawan)
+```javascript
+const razaan = {
+  fullName: "Razaan Kurniawan Putra",
+  currentRole: "IT Developer (Frontend) @ PT Pelita Teknologi Global",
+  education: "S1 Teknologi Informasi - Universitas BSI Margonda (Semester 5)",
+  location: "Bogor / Depok / Jakarta, Indonesia",
+  code: ["TypeScript", "JavaScript", "PHP", "Dart"],
+  frameworks: ["Vue.js 3", "React.js", "AngularJS", "Laravel", "Tailwind CSS"],
+  mobile: ["Flutter"],
+  database: ["MySQL", "PostgreSQL", "Firebase"],
+  tools: ["Vite", "Pinia", "GSAP", "Git", "VS Code"],
+  os: "Arch Linux"
+};
