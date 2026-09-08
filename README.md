@@ -8,7 +8,7 @@
 
   <!-- Quick Links / Badges -->
   <p align="center">
-    <a href="https://razaankurniawan.dev"><img src="https://img.shields.io/badge/PORTFOLIO-razaankurniawan.dev-c8a84b?style=for-the-badge&logo=google-chrome&logoColor=090d16" alt="Portfolio" /></a>
+    <a href="https://razaan-porto.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-razaankurniawan.dev-c8a84b?style=for-the-badge&logo=google-chrome&logoColor=090d16" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/razaan-kurniawan-b98584316"><img src="https://img.shields.io/badge/LINKEDIN-Razaan%20Kurniawan-1f293d?style=for-the-badge&logo=linkedin&logoColor=e6edf3" alt="LinkedIn" /></a>
     <a href="mailto:razaan.kp2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-razaan.kp2005%40gmail.com-1f293d?style=for-the-badge&logo=maildotru&logoColor=e6edf3" alt="Email" /></a>
   </p>
